@@ -6,8 +6,8 @@ const itensEstoque = [
     "27. Leite", "28. Leite condensado", "29. Lustra móveis", "30. Macarrão", "31. Macarrão de Lasanha", "32. Manteiga", 
     "33. Molho", "34. Molho shoyu", "35. Mostarda", "36. Naftalina", "37. Ovos", "38. Ovos de codorna", "39. Óleo", 
     "40. Óleo de algodão", "41. Papel higiênico", "42. PeFex", "43. Queijo ralado", "44. Sabão em barra", 
-    "45. Sabão em barra", "46. Sabão em pó", "47. Saco de lixo azul", "48. Saco de lixo preto", "49. Sal", "50. Veja", 
-    "51. Vinagre"
+    "45. Sabão em pó", "46. Saco de lixo azul", "47. Saco de lixo preto", "48. Sal", "49. Veja", 
+    "50. Vinagre"
 ];
 
 
