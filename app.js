@@ -1,12 +1,15 @@
 const itensEstoque = [
-    "Farinha Panko", "Farinha de trigo", "Farinha", "Fubá", "Óleo", "Óleo de algodão", "Ketchup", "Batata palha", 
-    "Macarrão", "Arroz", "Leite", "Creme de leite", "Leite condensado", "Caldo de galinha", "Caldo de carne", 
-    "Amaciante", "Queijo ralado", "Azeite", "Molho", "Manteiga", "Vinagre", "Ovos", "Ovos de codorna", "Sal", 
-    "Coloral", "Açafrão", "Feijão", "Macarrão de Lasanha", "Champignons", "Mostarda", "Molho shoyu", "Café", 
-    "Caldo de frutos do mar", "Bacon", "Calabresa", "Água sanitária", "Detergente", "Desinfetante", "Veja", 
-    "Papel higiênico", "Naftalina", "PeFex", "Saco de lixo preto", "Saco de lixo azul", "Sabão em pó", "Sabão em barra", 
-    "Esponja para pratos", "Bombril", "Lustra móveis", "Sabão em barra", "Kpp viagem"
+    "1. Açafrão", "2. Água sanitária", "3. Amaciante", "4. Arroz", "5. Azeite", "6. Bacon", "7. Batata palha", 
+    "8. Bombril", "9. Café", "10. Calabresa", "11. Caldo de carne", "12. Caldo de frutos do mar", "13. Caldo de galinha", 
+    "14. Champignons", "15. Coloral", "16. Creme de leite", "17. Detergente", "18. Desinfetante", "19. Esponja para pratos", 
+    "20. Farinha", "21. Farinha Panko", "22. Farinha de trigo", "23. Feijão", "24. Fubá", "25. Ketchup", "26. Kpp viagem", 
+    "27. Leite", "28. Leite condensado", "29. Lustra móveis", "30. Macarrão", "31. Macarrão de Lasanha", "32. Manteiga", 
+    "33. Molho", "34. Molho shoyu", "35. Mostarda", "36. Naftalina", "37. Ovos", "38. Ovos de codorna", "39. Óleo", 
+    "40. Óleo de algodão", "41. Papel higiênico", "42. PeFex", "43. Queijo ralado", "44. Sabão em barra", 
+    "45. Sabão em barra", "46. Sabão em pó", "47. Saco de lixo azul", "48. Saco de lixo preto", "49. Sal", "50. Veja", 
+    "51. Vinagre"
 ];
+
 
 let estoque = {};
 
